@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  user_id: 1
+  dish_id: 1
+  beginning_time: 2011-03-11 02:57:39
+  ending_time: 2011-03-11 02:57:39
+  limits: 1
+
+two:
+  user_id: 1
+  dish_id: 1
+  beginning_time: 2011-03-11 02:57:39
+  ending_time: 2011-03-11 02:57:39
+  limits: 1
